@@ -108,3 +108,6 @@ O ICMS é o principal responsável pelo peso tributário
 Simulações são fundamentais para decisões estratégicas (pricing, importação, etc.)
 
 <img width="1734" height="770" alt="Captura de tela 2026-02-27 203322" src="https://github.com/user-attachments/assets/3ec98ea7-a06a-44a8-9eab-984febf39143" />
+
+Video explicativo sobre o projeto no meu canal no Youtube. 
+https://www.youtube.com/watch?v=bawYi0Idw7I&t=32s
